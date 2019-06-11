@@ -1,1 +1,3 @@
 Alter table Player DROP (ContactNo);
+#or
+#ALTER TABLE Supplier drop column Emailid;
