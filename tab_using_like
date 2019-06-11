@@ -1,0 +1,1 @@
+select DESCR,PRICE from Item  where  DESCR LIKE '%Hard%'  ;
