@@ -1,0 +1,6 @@
+SELECT PRODID,CATEGORY,DISCOUNT FROM Product WHERE 	CATEGORY IN ('Apparel',	'Sports')ORDER BY CATEGORY,DISCOUNT ;
+
+##Display product id, category and discount of the products which belongs to the category ‘Sports’ or ‘Apparel'
+   #in ascending order of category and discount.
+   
+   
