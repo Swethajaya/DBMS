@@ -1,0 +1,3 @@
+SELECT PRODID, SUBSTR(PDESC,1,5) AS PDESC_FIVE ,CATEGORY from Product ;
+
+### Write a query to display the product id, first five characters of product description and category of those products.
